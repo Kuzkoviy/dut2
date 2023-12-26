@@ -1,0 +1,30 @@
+.project-list {
+    color: #24b325;
+}
+
+.projects {
+    color: orangered;
+}
+
+.header {
+    background-color: blue;
+}
+
+.main {
+    background-color: blueviolet;
+    padding-left: 50px;
+    margin-top: 100px;
+}
+
+.img {
+    width: 400px;
+    height: 400px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+
+.student-title {
+    text-shadow: 20px 50px 55px 100px;
+}
